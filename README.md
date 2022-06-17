@@ -31,4 +31,3 @@ User story;
 
 🔥 You can use [OpenWeather Api](https://openweathermap.org/) for your app. 
 
-🔥 
